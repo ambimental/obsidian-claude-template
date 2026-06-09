@@ -1,1 +1,6 @@
-{}
+{
+  "userIgnoreFilters": [
+    "CC-Session-Logs/",
+    "CLAUDE.md"
+  ]
+}

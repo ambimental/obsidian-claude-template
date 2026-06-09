@@ -1,2 +1,5 @@
 # obsidian - local rest api with mcp: exclude API keys
 .obsidian\plugins\obsidian-local-rest-api\data.json
+
+# Claude - session logs
+CC-Session-Logs/
