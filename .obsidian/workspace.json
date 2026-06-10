@@ -180,11 +180,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "60235ce88845dc62",
+  "active": "b7e978f1ddaad38b",
   "lastOpenFiles": [
+    "bin/template",
+    "bin",
     "Welcome.md"
   ]
 }
