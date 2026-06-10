@@ -180,16 +180,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "60235ce88845dc62",
+  "active": "b7e978f1ddaad38b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "CC-Session-Logs/09-06-2026-01_03-slash-commands-discovery.md",
     "CC-Session-Logs/09-06-2026-01_03-slash-commands-discovery.md.tmp.940.473d4d6c200b",
     "CC-Session-Logs",
     "CLAUDE.md",
     "CLAUDE.md.tmp.17208.ed3304a3c666",
+=======
+    "bin/template",
+    "bin",
+>>>>>>> obsidian
     "Welcome.md"
   ]
 }
